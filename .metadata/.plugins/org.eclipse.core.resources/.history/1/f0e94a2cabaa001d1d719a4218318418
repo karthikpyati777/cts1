@@ -1,0 +1,18 @@
+package com;
+
+import java.util.Scanner;
+
+public class AcceptInputFromUser {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter the number");
+		int a=s.nextInt();
+		int b=s.nextInt();
+		int z=a+b;
+		System.out.println("sum = "+z);
+	}
+
+}

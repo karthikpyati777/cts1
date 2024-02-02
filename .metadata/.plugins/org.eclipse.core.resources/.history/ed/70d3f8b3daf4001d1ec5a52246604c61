@@ -1,0 +1,22 @@
+package java.com;
+
+public class MethodOverloading {
+
+
+	void m1() {
+		System.out.println("HI");
+	}
+	public static void m2() {
+		System.out.println("Hello");
+	}
+	private void m3() {
+		System.out.println("Good");
+	}
+	public static void main(String[] args) {
+		
+		MethodOverloading m=new MethodOverloading();
+		m.m1();
+		m2();
+		m.m3();
+	}
+}

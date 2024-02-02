@@ -1,0 +1,22 @@
+package com.java.collections;
+
+interface i{
+public void	m1();
+}
+public class NeedOfCollection implements i {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	i s=new NeedOfCollection();
+	s.m1();
+
+
+	}
+
+	@Override
+	public void m1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

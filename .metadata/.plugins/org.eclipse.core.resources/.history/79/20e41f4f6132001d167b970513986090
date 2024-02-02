@@ -1,0 +1,23 @@
+package inheritance;
+
+public class C extends B {
+
+	
+	int d=10;
+	
+	public void hello()
+	{
+		System.out.println("karthik");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		C f=new C();
+		f.display();
+		f.show();
+		f.hello();
+		System.out.println(f.a+" "+f.b);
+
+	}
+
+}

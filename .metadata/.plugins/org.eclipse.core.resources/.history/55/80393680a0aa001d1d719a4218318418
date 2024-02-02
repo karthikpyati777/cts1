@@ -1,0 +1,25 @@
+package com;
+
+public class Demo {
+
+//	static void find(int a) {
+//		
+//		if(a%2==0)
+//			System.out.println("even");
+//		else
+//			System.out.println("odd");
+//	}
+	
+	static String positiveOrNegative(int n) {
+		if(n>0)
+			return n+" positive number";
+		else
+			return n+" negative number";
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        // find(3);
+		System.out.println(positiveOrNegative(1));
+	}
+
+}

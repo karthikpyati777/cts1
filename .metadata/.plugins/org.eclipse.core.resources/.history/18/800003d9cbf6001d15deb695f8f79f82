@@ -1,0 +1,20 @@
+package com.java.collections;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class LinkedListEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		List<Integer> ll=new LinkedList<>();
+		ll.add(3);
+		ll.add(18);
+		ll.add(34);
+		ll.add(43);
+		ll.add(81);
+		
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.oops;
+
+public class Constructor {
+	
+	 Constructor()
+	 {
+		 System.out.println("heelo");
+	 }
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub 
+		Constructor c=new Constructor();
+		c.Constructor();
+
+	}
+
+	private void Constructor() {
+		// TODO Auto-generated method stub
+		System.out.println("heelo");
+	}
+
+}

@@ -1,0 +1,30 @@
+package com.java8.streams;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Employee{
+	int id;
+	String name;
+	int salry;
+	public Employee(int id, String name, int i) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.salry = i;
+	}
+	
+}
+public class CombinationOffilterAndMap {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		List<Employee> l=new ArrayList<>();
+		l.add(new Employee(1, "karthik", 15000));
+		
+		
+
+	}
+
+}

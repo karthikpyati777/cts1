@@ -1,0 +1,13 @@
+package com;
+
+public class Mobile {
+
+	String brand="SAMSUNG";
+	int cost=30000;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Mobile m1=new Mobile();
+
+	}
+
+}

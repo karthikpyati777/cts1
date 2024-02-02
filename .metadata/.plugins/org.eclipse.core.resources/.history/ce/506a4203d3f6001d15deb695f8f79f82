@@ -1,0 +1,48 @@
+package com.java.collections;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class LinkedListEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		LinkedList<Integer> ll=new LinkedList<>();
+		ll.add(3);
+		ll.add(18);
+		ll.add(34);
+		ll.add(43);
+		ll.add(81);
+		ll.add(2, 7);
+		System.out.println(ll);
+		 // adding element from the beggining
+		ll.addFirst(1);
+		System.out.println(ll);
+		
+		//add last ele on the end of the list
+		ll.addLast(4);
+		System.out.println(ll);
+		
+		//retrieve Linkedlist from the ele list
+		System.out.println(ll.get(3));
+		System.out.println(ll.getFirst());
+		System.out.println(ll.getLast());
+		for(int i:ll) {
+			System.out.print(i+" ");
+		}
+		//removing ele from LL
+		System.out.println(ll.remove(1));
+		System.out.println(ll);
+		System.out.println(ll.remove(1));
+		System.out.println(ll);
+		ll.add(4);
+		System.out.println(ll);
+		System.out.println(ll.removeFirst());
+		System.out.println(ll);
+		System.out.println(ll.removeFirstOccurrence(ll));
+		System.out.println(ll);
+		System.out.println(ll.removeLast());
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.arrays;
+
+public class Deleting_element_by_its_value_when_the_array_contains_duplicates {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

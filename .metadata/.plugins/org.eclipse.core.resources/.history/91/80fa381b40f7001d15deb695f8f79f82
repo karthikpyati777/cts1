@@ -1,0 +1,25 @@
+package com.java.collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class HashMapExamples {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Map<String,Integer> m=new HashMap<>();
+		m.put("karthik", 20000);
+		m.put("hateli", 10000);
+		System.out.println(m);
+		m.put("chenna", 13000);
+		m.put("naga", 14000);
+		m.put("manju", 17000);
+		System.out.println(m.containsKey("karthik"));
+		System.out.println(m.containsValue( 10000));
+		System.out.println(m.isEmpty());
+		System.out.println(m.remove("chenna"));
+		System.out.println(m);
+	}
+
+}

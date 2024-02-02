@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\2107257\Downloads\customizes-spring-security"/>
+			<item value="C:\DOTC_RAS_PilotPortal_Cloud\DOTC_RAS_PilotPortal_Cloud"/>
+			<item value="C:\DOTC\DOTC_RAS_UI_Automation"/>
+			<item value="C:\Users\2107257\Downloads\learn-spring-framework"/>
+			<item value="C:\Users\2107257\Downloads\SpringBootDto"/>
+			<item value="C:\Users\2107257\Downloads\SpringBootDemo"/>
+			<item value="C:\Users\2107257\Downloads\demo (3)"/>
+			<item value="C:\Users\2107257\Downloads\learn-jpa-and-hibernate"/>
+			<item value="C:\Users\2107257\Downloads\springbootexample"/>
+			<item value="C:\Users\2107257\Downloads\JUNITDEMO"/>
+			<item value="C:\Users\2107257\Downloads\Spring-boot-testing"/>
+			<item value="C:\Users\2107257\Downloads\Spring Boot-Testing"/>
+			<item value="C:\Users\2107257\Downloads\spring-boot-testing"/>
+			<item value="C:\Users\2107257\Downloads\spring-data-dataRepository"/>
+			<item value="C:\Users\2107257\Downloads\DemoOfRepositoryTest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\2107257\eclipse-workspace\inheritance"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="springbootjunittest.JUNIT4"/>
+			<item value="springbootjunittest.junit4"/>
+		</list>
+		<list key="groupId">
+			<item value="springbootjunittest"/>
+		</list>
+		<list key="artifactId">
+			<item value="JUNIT4"/>
+			<item value="junit4"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

@@ -1,0 +1,14 @@
+package com;
+
+public class MethodOverloading {
+
+	
+	static void display(int a) {
+		System.out.println("the integer number is :" +a);
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

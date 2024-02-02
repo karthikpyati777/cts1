@@ -1,0 +1,7 @@
+package com.oops;
+
+abstract class AbstractClassEx {
+	
+	abstract void display();
+
+}

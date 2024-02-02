@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.arrays.SumOfTwoArrays.java&apos; to &apos;MergeTwoArray.java&apos;&#x0D;&#x0A;- Original project: &apos;CollectionExamples&apos;&#x0D;&#x0A;- Original element: &apos;com.arrays.SumOfTwoArrays.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.arrays.MergeTwoArray.java&apos;" description="Rename compilation unit &apos;SumOfTwoArrays.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.arrays{SumOfTwoArrays.java" name="MergeTwoArray.java" references="false" stamp="1676655659056" version="1.0"/>
+</session>

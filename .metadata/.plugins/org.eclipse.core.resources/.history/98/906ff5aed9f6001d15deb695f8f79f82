@@ -1,0 +1,20 @@
+package com.java.collections;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class HashSetEx {
+
+	//it's not contain duplicate values
+	private static void duplicateValueDemo() {
+		Set<String> s=new HashSet<>();
+		s.add("ele1");
+		s.add("ele1");
+		System.out.println(s);
+	}
+	public static void main(String[] args) {
+	
+
+	}
+
+}

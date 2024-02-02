@@ -1,0 +1,11 @@
+package com.oops;
+
+public class AbstractImpl extends AbstractClassEx{
+
+	@Override
+	void display() {
+		// TODO Auto-generated method stub
+		System.out.println("karthik");
+	}
+
+}

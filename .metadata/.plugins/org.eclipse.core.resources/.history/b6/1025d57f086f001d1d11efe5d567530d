@@ -1,0 +1,13 @@
+package com;
+
+public class throwpgm {
+	public static void divideByzeo()
+	{
+		throw new Exception("divide by zero");
+	}
+	
+	public static void main(String[] args) {
+		divideByzeo();
+	}
+
+}

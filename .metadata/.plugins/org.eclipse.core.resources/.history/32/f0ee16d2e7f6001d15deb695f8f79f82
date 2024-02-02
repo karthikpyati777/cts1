@@ -1,0 +1,17 @@
+package com.java.collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class HashMapExamples {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Map<String,Integer> m=new HashMap<>();
+		m.put("karthik", 20000);
+		m.put("hateli", 20000);
+		System.out.println(m);
+	}
+
+}

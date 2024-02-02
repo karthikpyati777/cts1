@@ -1,0 +1,28 @@
+package com.java8.streams;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class ProductList{
+	int id;
+	String name;
+	double salary;
+	public ProductList(int id, String name, double salary) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.salary = salary;
+	}
+	
+	
+}
+public class FilterDemo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<ProductList> l= new ArrayList<Product>();
+		
+
+	}
+
+}
